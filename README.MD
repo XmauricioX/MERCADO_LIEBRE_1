@@ -1,9 +1,9 @@
-# -Mercado Liebre Agregando Estilos
+# -Mercado Liebre Creando La Estructura
 
 ## Desafio frontend del curso FullStack de Digital House
 
-<a href="https://github.com/XmauricioX/MERCADO_LIEBRE_2/blob/main/DESAFIO/M04C03%20-%20Ejercitaci%C3%B3n%20PAD.pdf">IR AL PDF</a>
+<a href="https://github.com/XmauricioX/MERCADO_LIEBRE_1/blob/main/DESAFIO/M04C03%20-%20Ejercitaci%C3%B3n%20PAD.pdf">IR AL PDF</a>
 
 <h2>Preview del desafio finalizado<h2>
 
-<img src="https://github.com/XmauricioX/MERCADO_LIEBRE_2/blob/main/public/images/preview.PNG">
+<img src="https://github.com/XmauricioX/MERCADO_LIEBRE_1/blob/main/public/images/preview.PNG">
